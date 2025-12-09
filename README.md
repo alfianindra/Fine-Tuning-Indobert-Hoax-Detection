@@ -17,4 +17,5 @@ Proyek ini bertujuan untuk melakukan **fine-tuning model IndoBERT** pada dataset
 2. Alfian Indrajaya
 3. Firzi Ilham Bagusti
 
-
+## Untuk Running 
+``` pip install streamlit transformers torch pandas openpyxl```
